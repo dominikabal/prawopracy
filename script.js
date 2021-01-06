@@ -159,7 +159,7 @@ options:["bezpośrednia lub pośrednia, w szczególności ze względu na płeć,
                                     
                                     {
                                     q:'Każde niepożądane zachowanie o charakterze seksualnym lub odnoszące się do płci pracownika, którego celem lub skutkiem jest naruszenie godności pracownika, w szczególności stworzenie wobec niego zastraszającej, wrogiej, poniżającej, upokarzającej lub uwłaczającej atmosfery jest:',
-                                    a:"",
+                                    a:"dyskryminowaniem ze względu na płeć",
                                     options:["molestowaniem seksulanym","mobbingiem","dyskryminowaniem ze względu na płeć"]
                                     },
     
